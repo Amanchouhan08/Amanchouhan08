@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aman Chouhan</h1>
 <h3 align="center">Electrical & Electronics Engineering Student | Passionate about coding | Aspiring Software Development Engineer(SED)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanchouhan08&label=Profile%20views&color=0e75b6&style=flat" alt="amanchouhan08" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amanchouhan08&label=Profile%20views&color=0e75b6&style=flat" alt="Amanchouhan08" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanchouhan08" alt="amanchouhan08" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amanchouhan08" alt="Amanchouhan08" /></a> </p>
 
 - 🔭 I’m currently working on **sharpening my coding skills and building exciting projects.**
 

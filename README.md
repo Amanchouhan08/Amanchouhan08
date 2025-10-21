@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Chouhan</h1>
-<h3 align="center">Electrical & Electronics Engineering Student | Passionate about coding | Aspiring Software Development Engineer(SED)</h3>
+<h3 align="center">Electrical & Electronics Engineering Student | Passionate about coding | Aspiring Software Development Engineer(SDE)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amanchouhan08&label=Profile%20views&color=0e75b6&style=flat" alt="Amanchouhan08" /> </p>
 

@@ -2,6 +2,9 @@
 <h3 align="center">Electrical & Electronics Engineering Student | Passionate about coding | Aspiring Software Development Engineer(SDE)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanchouhan08&label=Profile%20views&color=0e75b6&style=flat" alt="amanchouhan08" /> </p>
+
+# 💻 Tech Stack:
+ ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanchouhan08" alt="amanchouhan08" /></a> </p>
 -->
@@ -38,6 +41,10 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanchouhan08&" alt="Amanchouhan08" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=amanchouhan08&limit=5&theme=default&combine_all_yearly_contributions=true)
+
 
 <!--
 <div align="center">

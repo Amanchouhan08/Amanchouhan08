@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanchouhan08&label=Profile%20views&color=0e75b6&style=flat" alt="amanchouhan08" /> </p>
 
-# 💻 Tech Stack:
- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<!--
 github trophy
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanchouhan08" alt="amanchouhan08" /></a> </p>
--->
+
+# 💻 Tech Stack:
+ ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 - 🔭 I’m currently working on **sharpening my coding skills and building exciting projects.**
 
 - 🌱 I’m currently learning **DSA to strengthen my problem-solving skills and coding logic.**
@@ -40,7 +40,10 @@ github trophy
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanchouhan08&show_icons=true&locale=en" alt="amanchouhan08" /></p>
 
+<!--
+this is for current status
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanchouhan08&" alt="Amanchouhan08" /></p>
+-->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=amanchouhan08&limit=5&theme=default&combine_all_yearly_contributions=true)
@@ -52,4 +55,3 @@ github trophy
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amanchouhan08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 -->
- <!-- this symbol is use to comment in HTML -->
